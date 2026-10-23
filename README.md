@@ -36,7 +36,7 @@ A beautiful and responsive travel website built using React.
 ## 🚀 Run Locally
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/ravi1361/travel.git
 cd travel-project
 npm install
 npm run dev
